@@ -1,15 +1,15 @@
-:q
-
-
 This is the first push
-:wq
-wq
-wq
+
+This is the second edit to this file
 
 
 
 
-exit
+
+
+
+
+
 
 
 
