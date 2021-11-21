@@ -1,8 +1,6 @@
 
-## Git Essentials
+# Git Essentials / Git For Everybody
 
-Here is some new material in here, That you are going to like.
+This is a course to teach you how to use everyday git.
 
-
-
-
+Course created by Kalob Taulien
